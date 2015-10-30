@@ -1,0 +1,11 @@
+	<article>
+		[[preparedarticle]]
+		<isInsuranceRequired>[[isInsuranceRequired]]</isInsuranceRequired>
+		<insuranceValue>[[insuranceValue]]</insuranceValue>
+		<classificationExplanation>[[classificationExplanation]]</classificationExplanation>
+		<exportDeclarationNumber>[[exportDeclarationNumber]]</exportDeclarationNumber>
+		<productClassification>[[productClassification]]</productClassification>
+		<hasCommercialValue>[[hasCommercialValue]]</hasCommercialValue>
+		<deliveryFailureDetails>[[deliveryFailureDetails]]</deliveryFailureDetails>
+		<contents><content>[[contents]]</content></contents>
+	</article>
